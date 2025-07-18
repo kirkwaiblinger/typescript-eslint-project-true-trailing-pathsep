@@ -1,0 +1,1 @@
+Promise.resolve('should trigger no-floating-promises');

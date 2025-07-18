@@ -1,0 +1,12 @@
+{
+  "name": "typescript-eslint-project-true-trailing-pathsep",
+  "type": "module",
+  "scripts": {
+    "lint": "DEBUG=typescript-eslint:typescript-estree:parseSettings:getProjectConfigFiles eslint src"
+  },
+  "devDependencies": {
+    "eslint": "9.31.0",
+    "typescript": "5.8.3",
+    "typescript-eslint": "8.37.0"
+  }
+}
